@@ -54,7 +54,6 @@ def delete_contact(contacts, contact_index):
         print("Invalid contact index.")
     return
 
-
 contacts = []
 while True:
     print("\nContact List")
